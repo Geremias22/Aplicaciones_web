@@ -1,2 +1,7 @@
 Qui guanyarà la champions 2026?
+<<<<<<< HEAD
 Madrid
+=======
+
+Pedro Sanchez
+>>>>>>> origin/main
